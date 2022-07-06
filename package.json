@@ -1,0 +1,16 @@
+{
+    "name": "com.passivestar.quickactions",
+    "version": "0.1.0",
+    "displayName": "Quick Actions",
+    "description": "A quick actions menu to simplify access to basic operations",
+    "license": "See LICENSE.md",
+    "unity": "2022.1",
+    "keywords": [
+        "UI",
+        "Productivity"
+    ],
+    "author": {
+        "name": "passivestar",
+        "url": "https://passivestar.name"
+    }
+}
