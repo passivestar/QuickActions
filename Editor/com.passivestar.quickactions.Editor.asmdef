@@ -1,5 +1,5 @@
 {
-    "name": "QuickActions",
+    "name": "com.passivestar.quickactions.Editor",
     "references": [
         "Unity.VisualScripting.Core",
         "Unity.VisualScripting.Flow",
